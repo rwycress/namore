@@ -1,0 +1,2431 @@
+[
+	{
+		"model": "accounts.Ingredient",
+		"pk": 0,
+		"fields": {
+			"ingre_name": "소고기양지"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 1,
+		"fields": {
+			"ingre_name": "실 미역"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 2,
+		"fields": {
+			"ingre_name": "참기름"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 3,
+		"fields": {
+			"ingre_name": "물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 4,
+		"fields": {
+			"ingre_name": "국간장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 5,
+		"fields": {
+			"ingre_name": "참치액"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 6,
+		"fields": {
+			"ingre_name": "다진마늘"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 7,
+		"fields": {
+			"ingre_name": "소금"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 8,
+		"fields": {
+			"ingre_name": "계란"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 9,
+		"fields": {
+			"ingre_name": "대파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 10,
+		"fields": {
+			"ingre_name": "양파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 11,
+		"fields": {
+			"ingre_name": "마늘"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 12,
+		"fields": {
+			"ingre_name": "홍고추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 13,
+		"fields": {
+			"ingre_name": "청고추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 14,
+		"fields": {
+			"ingre_name": "통깨"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 15,
+		"fields": {
+			"ingre_name": "간장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 16,
+		"fields": {
+			"ingre_name": "설탕"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 17,
+		"fields": {
+			"ingre_name": "도토리묵"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 18,
+		"fields": {
+			"ingre_name": "김자반"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 19,
+		"fields": {
+			"ingre_name": "진간장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 20,
+		"fields": {
+			"ingre_name": "밥"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 21,
+		"fields": {
+			"ingre_name": "빨간 파프리카"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 22,
+		"fields": {
+			"ingre_name": "노란 파프리카"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 23,
+		"fields": {
+			"ingre_name": "햄"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 24,
+		"fields": {
+			"ingre_name": "토마토소스"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 25,
+		"fields": {
+			"ingre_name": "버터"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 26,
+		"fields": {
+			"ingre_name": "모짜렐라 치즈"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 27,
+		"fields": {
+			"ingre_name": "파슬리"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 28,
+		"fields": {
+			"ingre_name": "가와지 1호 쌀"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 29,
+		"fields": {
+			"ingre_name": "검은 콩"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 30,
+		"fields": {
+			"ingre_name": "고추가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 31,
+		"fields": {
+			"ingre_name": "고추장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 32,
+		"fields": {
+			"ingre_name": "간장 1T 설탕"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 33,
+		"fields": {
+			"ingre_name": "미향"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 34,
+		"fields": {
+			"ingre_name": "황태채"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 35,
+		"fields": {
+			"ingre_name": "매실청"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 36,
+		"fields": {
+			"ingre_name": "불린 미역"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 37,
+		"fields": {
+			"ingre_name": "캔 옥수수"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 38,
+		"fields": {
+			"ingre_name": "달걀"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 39,
+		"fields": {
+			"ingre_name": "납작 치즈"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 40,
+		"fields": {
+			"ingre_name": "부침가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 41,
+		"fields": {
+			"ingre_name": "박력분"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 42,
+		"fields": {
+			"ingre_name": "부추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 43,
+		"fields": {
+			"ingre_name": "풋고추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 44,
+		"fields": {
+			"ingre_name": "겨자"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 45,
+		"fields": {
+			"ingre_name": "크림치즈"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 46,
+		"fields": {
+			"ingre_name": "마요네즈"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 47,
+		"fields": {
+			"ingre_name": "다진양파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 48,
+		"fields": {
+			"ingre_name": "연어"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 49,
+		"fields": {
+			"ingre_name": "빵가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 50,
+		"fields": {
+			"ingre_name": "팽이버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 51,
+		"fields": {
+			"ingre_name": "부추 가볍게"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 52,
+		"fields": {
+			"ingre_name": "올리브유"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 53,
+		"fields": {
+			"ingre_name": "꿀 또는 설탕 6숫가락"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 54,
+		"fields": {
+			"ingre_name": "파슬리 플레이크"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 55,
+		"fields": {
+			"ingre_name": "후추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 56,
+		"fields": {
+			"ingre_name": "감자"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 57,
+		"fields": {
+			"ingre_name": "아기 치즈"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 58,
+		"fields": {
+			"ingre_name": "파슬리가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 59,
+		"fields": {
+			"ingre_name": "로운이엄마표 토마토케첩"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 60,
+		"fields": {
+			"ingre_name": "멸치육수팩"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 61,
+		"fields": {
+			"ingre_name": "간마늘"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 62,
+		"fields": {
+			"ingre_name": "땡초"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 63,
+		"fields": {
+			"ingre_name": "쯔유 소주잔"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 64,
+		"fields": {
+			"ingre_name": "불고기용 소고기"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 65,
+		"fields": {
+			"ingre_name": "숙주"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 66,
+		"fields": {
+			"ingre_name": "알배추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 67,
+		"fields": {
+			"ingre_name": "청경채"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 68,
+		"fields": {
+			"ingre_name": "버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 69,
+		"fields": {
+			"ingre_name": "어묵"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 70,
+		"fields": {
+			"ingre_name": "참깨소스"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 71,
+		"fields": {
+			"ingre_name": "땅콩소스"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 72,
+		"fields": {
+			"ingre_name": "칠리소스"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 73,
+		"fields": {
+			"ingre_name": "간장와사비장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 74,
+		"fields": {
+			"ingre_name": "파인애플"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 75,
+		"fields": {
+			"ingre_name": "양배추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 76,
+		"fields": {
+			"ingre_name": "당근"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 77,
+		"fields": {
+			"ingre_name": "새싹"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 78,
+		"fields": {
+			"ingre_name": "깻잎"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 79,
+		"fields": {
+			"ingre_name": "소고기다짐육"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 80,
+		"fields": {
+			"ingre_name": "백만송이버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 81,
+		"fields": {
+			"ingre_name": "다진 대파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 82,
+		"fields": {
+			"ingre_name": "다진 양파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 83,
+		"fields": {
+			"ingre_name": "다진 표고버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 84,
+		"fields": {
+			"ingre_name": "다진 당근"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 85,
+		"fields": {
+			"ingre_name": "아기 간장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 86,
+		"fields": {
+			"ingre_name": "배즙"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 87,
+		"fields": {
+			"ingre_name": "강판에 간 양파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 88,
+		"fields": {
+			"ingre_name": "강판에 간 마늘"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 89,
+		"fields": {
+			"ingre_name": "파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 90,
+		"fields": {
+			"ingre_name": "애호박"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 91,
+		"fields": {
+			"ingre_name": "토마토"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 92,
+		"fields": {
+			"ingre_name": "자숙새우"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 93,
+		"fields": {
+			"ingre_name": "자수 새우"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 94,
+		"fields": {
+			"ingre_name": "밀가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 95,
+		"fields": {
+			"ingre_name": "식용유"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 96,
+		"fields": {
+			"ingre_name": "육포"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 97,
+		"fields": {
+			"ingre_name": "청양고추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 98,
+		"fields": {
+			"ingre_name": "오이"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 99,
+		"fields": {
+			"ingre_name": "목이버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 100,
+		"fields": {
+			"ingre_name": "파프리카"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 101,
+		"fields": {
+			"ingre_name": "식초"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 102,
+		"fields": {
+			"ingre_name": "전분"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 103,
+		"fields": {
+			"ingre_name": "돼지등심"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 104,
+		"fields": {
+			"ingre_name": "고구마전분"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 105,
+		"fields": {
+			"ingre_name": "감자전분"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 106,
+		"fields": {
+			"ingre_name": "경기미참드림"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 107,
+		"fields": {
+			"ingre_name": "맛송이버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 108,
+		"fields": {
+			"ingre_name": "우유"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 109,
+		"fields": {
+			"ingre_name": "올리브오일"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 110,
+		"fields": {
+			"ingre_name": "크림파스타소스"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 111,
+		"fields": {
+			"ingre_name": "강황가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 112,
+		"fields": {
+			"ingre_name": "맛소금"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 113,
+		"fields": {
+			"ingre_name": "고추참치"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 114,
+		"fields": {
+			"ingre_name": "김치 국그릇"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 115,
+		"fields": {
+			"ingre_name": "고춧가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 116,
+		"fields": {
+			"ingre_name": "우렁"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 117,
+		"fields": {
+			"ingre_name": "애호박(쥬키니 반개)"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 118,
+		"fields": {
+			"ingre_name": "미소된장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 119,
+		"fields": {
+			"ingre_name": "올리고당(1T)"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 120,
+		"fields": {
+			"ingre_name": "두부"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 121,
+		"fields": {
+			"ingre_name": "맛간장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 122,
+		"fields": {
+			"ingre_name": "맛술"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 123,
+		"fields": {
+			"ingre_name": "올리고당"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 124,
+		"fields": {
+			"ingre_name": "경기미가와지1호"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 125,
+		"fields": {
+			"ingre_name": "보리쌀"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 126,
+		"fields": {
+			"ingre_name": "냉동모둠채소"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 127,
+		"fields": {
+			"ingre_name": "양조간장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 128,
+		"fields": {
+			"ingre_name": "천연조미료해물육수"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 129,
+		"fields": {
+			"ingre_name": "매실액"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 130,
+		"fields": {
+			"ingre_name": "썬쪽파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 131,
+		"fields": {
+			"ingre_name": "짜장가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 132,
+		"fields": {
+			"ingre_name": "돼지고기"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 133,
+		"fields": {
+			"ingre_name": "전분가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 134,
+		"fields": {
+			"ingre_name": "경기미 참드림 쌀"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 135,
+		"fields": {
+			"ingre_name": "전복"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 136,
+		"fields": {
+			"ingre_name": "깨"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 137,
+		"fields": {
+			"ingre_name": "부추 다져서"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 138,
+		"fields": {
+			"ingre_name": "파 흰부분"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 139,
+		"fields": {
+			"ingre_name": "삼겹살"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 140,
+		"fields": {
+			"ingre_name": "고구마"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 141,
+		"fields": {
+			"ingre_name": "가와지1호로 지은밥"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 142,
+		"fields": {
+			"ingre_name": "참치통조림"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 143,
+		"fields": {
+			"ingre_name": "삼각김밥용 김"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 144,
+		"fields": {
+			"ingre_name": "스티커"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 145,
+		"fields": {
+			"ingre_name": "일회용장갑"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 146,
+		"fields": {
+			"ingre_name": "삼각김밥틀"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 147,
+		"fields": {
+			"ingre_name": "스팸"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 148,
+		"fields": {
+			"ingre_name": "식빵"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 149,
+		"fields": {
+			"ingre_name": "슬라이스치즈"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 150,
+		"fields": {
+			"ingre_name": "잼"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 151,
+		"fields": {
+			"ingre_name": "말린 톳"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 152,
+		"fields": {
+			"ingre_name": "쌀"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 153,
+		"fields": {
+			"ingre_name": "다진 마늘"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 154,
+		"fields": {
+			"ingre_name": "​ 감자 작은 것"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 155,
+		"fields": {
+			"ingre_name": "양파 보통 크기"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 156,
+		"fields": {
+			"ingre_name": "양송이 버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 157,
+		"fields": {
+			"ingre_name": "오일"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 158,
+		"fields": {
+			"ingre_name": "​식용유"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 159,
+		"fields": {
+			"ingre_name": "다짐육 소고기"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 160,
+		"fields": {
+			"ingre_name": "카놀라유"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 161,
+		"fields": {
+			"ingre_name": "볶음깨"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 162,
+		"fields": {
+			"ingre_name": "돼지고기찌개용"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 163,
+		"fields": {
+			"ingre_name": "느타리버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 164,
+		"fields": {
+			"ingre_name": "멸치육수"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 165,
+		"fields": {
+			"ingre_name": "간 마늘"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 166,
+		"fields": {
+			"ingre_name": "김치"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 167,
+		"fields": {
+			"ingre_name": "쌀뜨물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 168,
+		"fields": {
+			"ingre_name": "연두 청양초"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 169,
+		"fields": {
+			"ingre_name": "닭갈비"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 170,
+		"fields": {
+			"ingre_name": "치즈떡 낱개"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 171,
+		"fields": {
+			"ingre_name": "당면"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 172,
+		"fields": {
+			"ingre_name": "뜨거운물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 173,
+		"fields": {
+			"ingre_name": "가지"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 174,
+		"fields": {
+			"ingre_name": "굴소스"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 175,
+		"fields": {
+			"ingre_name": "멸치볶음"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 176,
+		"fields": {
+			"ingre_name": "꽈리고추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 177,
+		"fields": {
+			"ingre_name": "명란젓"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 178,
+		"fields": {
+			"ingre_name": "아보카도"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 179,
+		"fields": {
+			"ingre_name": "고등어"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 180,
+		"fields": {
+			"ingre_name": "무"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 181,
+		"fields": {
+			"ingre_name": "육수"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 182,
+		"fields": {
+			"ingre_name": "쪽파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 183,
+		"fields": {
+			"ingre_name": "쑥갓 1봉"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 184,
+		"fields": {
+			"ingre_name": "굵은소금"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 185,
+		"fields": {
+			"ingre_name": "들기름"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 186,
+		"fields": {
+			"ingre_name": "깨소금"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 187,
+		"fields": {
+			"ingre_name": "귤"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 188,
+		"fields": {
+			"ingre_name": "키위"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 189,
+		"fields": {
+			"ingre_name": "계란 흰자"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 190,
+		"fields": {
+			"ingre_name": "물 종이컵"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 191,
+		"fields": {
+			"ingre_name": "감자 소"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 192,
+		"fields": {
+			"ingre_name": "캔참치"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 193,
+		"fields": {
+			"ingre_name": "매운고추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 194,
+		"fields": {
+			"ingre_name": "양파 김치"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 195,
+		"fields": {
+			"ingre_name": "된장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 196,
+		"fields": {
+			"ingre_name": "허브솔트"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 197,
+		"fields": {
+			"ingre_name": "청주"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 198,
+		"fields": {
+			"ingre_name": "올리고 당"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 199,
+		"fields": {
+			"ingre_name": "생강가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 200,
+		"fields": {
+			"ingre_name": "커피가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 201,
+		"fields": {
+			"ingre_name": "후춧가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 202,
+		"fields": {
+			"ingre_name": "생강"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 203,
+		"fields": {
+			"ingre_name": "물엿"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 204,
+		"fields": {
+			"ingre_name": "통후추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 205,
+		"fields": {
+			"ingre_name": "전갱이회"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 206,
+		"fields": {
+			"ingre_name": "소면"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 207,
+		"fields": {
+			"ingre_name": "레몬즙"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 208,
+		"fields": {
+			"ingre_name": "모짜렐라치즈"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 209,
+		"fields": {
+			"ingre_name": "슬라이스 치즈"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 210,
+		"fields": {
+			"ingre_name": "닭 가슴살"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 211,
+		"fields": {
+			"ingre_name": "카이옌 페퍼"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 212,
+		"fields": {
+			"ingre_name": "갈색설탕"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 213,
+		"fields": {
+			"ingre_name": "찬물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 214,
+		"fields": {
+			"ingre_name": "사과"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 215,
+		"fields": {
+			"ingre_name": "시나몬가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 216,
+		"fields": {
+			"ingre_name": "다시다"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 217,
+		"fields": {
+			"ingre_name": "두부(큰것)"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 218,
+		"fields": {
+			"ingre_name": "건강유"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 219,
+		"fields": {
+			"ingre_name": "꽃게 중"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 220,
+		"fields": {
+			"ingre_name": "호박"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 221,
+		"fields": {
+			"ingre_name": "컬러 고추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 222,
+		"fields": {
+			"ingre_name": "쌈장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 223,
+		"fields": {
+			"ingre_name": "냉동삼겹살"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 224,
+		"fields": {
+			"ingre_name": "순대"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 225,
+		"fields": {
+			"ingre_name": "들깻가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 226,
+		"fields": {
+			"ingre_name": "고추기름"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 227,
+		"fields": {
+			"ingre_name": "누들 떡볶이 떡"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 228,
+		"fields": {
+			"ingre_name": "비엔나소세지"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 229,
+		"fields": {
+			"ingre_name": "카레가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 230,
+		"fields": {
+			"ingre_name": "삶은계란"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 231,
+		"fields": {
+			"ingre_name": "저온 숙성 고등어"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 232,
+		"fields": {
+			"ingre_name": "새송이버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 233,
+		"fields": {
+			"ingre_name": "가와지1호 쌀"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 234,
+		"fields": {
+			"ingre_name": "고추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 235,
+		"fields": {
+			"ingre_name": "단촛물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 236,
+		"fields": {
+			"ingre_name": "유부"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 237,
+		"fields": {
+			"ingre_name": "김"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 238,
+		"fields": {
+			"ingre_name": "검은깨"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 239,
+		"fields": {
+			"ingre_name": "서리태"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 240,
+		"fields": {
+			"ingre_name": "병아리콩"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 241,
+		"fields": {
+			"ingre_name": "단무지"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 242,
+		"fields": {
+			"ingre_name": "치자"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 243,
+		"fields": {
+			"ingre_name": "비트즙"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 244,
+		"fields": {
+			"ingre_name": "쑥가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 245,
+		"fields": {
+			"ingre_name": "오이지"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 246,
+		"fields": {
+			"ingre_name": "다진파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 247,
+		"fields": {
+			"ingre_name": "다진청양고추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 248,
+		"fields": {
+			"ingre_name": "닭가슴살"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 249,
+		"fields": {
+			"ingre_name": "인삼"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 250,
+		"fields": {
+			"ingre_name": "대추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 251,
+		"fields": {
+			"ingre_name": "브로콜리"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 252,
+		"fields": {
+			"ingre_name": "정식품콩국물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 253,
+		"fields": {
+			"ingre_name": "정식품 콩국물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 254,
+		"fields": {
+			"ingre_name": "꽃게"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 255,
+		"fields": {
+			"ingre_name": "바지락"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 256,
+		"fields": {
+			"ingre_name": "둥근호박"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 257,
+		"fields": {
+			"ingre_name": "쑥갓"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 258,
+		"fields": {
+			"ingre_name": "멸치액젓"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 259,
+		"fields": {
+			"ingre_name": "새우젓"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 260,
+		"fields": {
+			"ingre_name": "미림"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 261,
+		"fields": {
+			"ingre_name": "삼겹살 또는"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 262,
+		"fields": {
+			"ingre_name": "장어"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 263,
+		"fields": {
+			"ingre_name": "소주"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 264,
+		"fields": {
+			"ingre_name": "피망"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 265,
+		"fields": {
+			"ingre_name": "표고버섯"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 266,
+		"fields": {
+			"ingre_name": "고운소금"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 267,
+		"fields": {
+			"ingre_name": "쌀밥"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 268,
+		"fields": {
+			"ingre_name": "참치"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 269,
+		"fields": {
+			"ingre_name": "냉동 닭가슴살"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 270,
+		"fields": {
+			"ingre_name": "물 팬원에 약"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 271,
+		"fields": {
+			"ingre_name": "소고기"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 272,
+		"fields": {
+			"ingre_name": "미역 자른걸로"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 273,
+		"fields": {
+			"ingre_name": "다시다(또는 살뜨물 사용은 선택사항)"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 274,
+		"fields": {
+			"ingre_name": "톳"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 275,
+		"fields": {
+			"ingre_name": "국거리한우"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 276,
+		"fields": {
+			"ingre_name": "건미역"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 277,
+		"fields": {
+			"ingre_name": "현미유"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 278,
+		"fields": {
+			"ingre_name": "대게맛간장(또는액젓)"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 279,
+		"fields": {
+			"ingre_name": "소금 부족한"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 280,
+		"fields": {
+			"ingre_name": "다시마"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 281,
+		"fields": {
+			"ingre_name": "황태"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 282,
+		"fields": {
+			"ingre_name": "건새우"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 283,
+		"fields": {
+			"ingre_name": "건표고"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 284,
+		"fields": {
+			"ingre_name": "미역불린컵"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 285,
+		"fields": {
+			"ingre_name": "떡볶이 떡"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 286,
+		"fields": {
+			"ingre_name": "황설탕"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 287,
+		"fields": {
+			"ingre_name": "무우"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 288,
+		"fields": {
+			"ingre_name": "돼지고기 살코기"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 289,
+		"fields": {
+			"ingre_name": "묵은지"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 290,
+		"fields": {
+			"ingre_name": "양파(또는무)"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 291,
+		"fields": {
+			"ingre_name": "다시마(황태또는건표고)"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 292,
+		"fields": {
+			"ingre_name": "청국장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 293,
+		"fields": {
+			"ingre_name": "부추(또는파)"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 294,
+		"fields": {
+			"ingre_name": "진한콩국물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 295,
+		"fields": {
+			"ingre_name": "진한콩국물 검은콩"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 296,
+		"fields": {
+			"ingre_name": "포도씨유 or 카놀라유"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 297,
+		"fields": {
+			"ingre_name": "흑설탕"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 298,
+		"fields": {
+			"ingre_name": "꿀"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 299,
+		"fields": {
+			"ingre_name": "바닐라 익스트랙"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 300,
+		"fields": {
+			"ingre_name": "시나몬 가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 301,
+		"fields": {
+			"ingre_name": "베이킹 파우더"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 302,
+		"fields": {
+			"ingre_name": "호두 or 피칸"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 303,
+		"fields": {
+			"ingre_name": "아몬드가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 304,
+		"fields": {
+			"ingre_name": "슈가파우더"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 305,
+		"fields": {
+			"ingre_name": "흰자"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 306,
+		"fields": {
+			"ingre_name": "늘보리"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 307,
+		"fields": {
+			"ingre_name": "발아찰현미"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 308,
+		"fields": {
+			"ingre_name": "흑미"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 309,
+		"fields": {
+			"ingre_name": "완두콩"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 310,
+		"fields": {
+			"ingre_name": "생수"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 311,
+		"fields": {
+			"ingre_name": "참치캔"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 312,
+		"fields": {
+			"ingre_name": "저염 강된장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 313,
+		"fields": {
+			"ingre_name": "당근 1개/"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 314,
+		"fields": {
+			"ingre_name": "감자 1개/"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 315,
+		"fields": {
+			"ingre_name": "토마토 1개/"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 316,
+		"fields": {
+			"ingre_name": "콜리플라워"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 317,
+		"fields": {
+			"ingre_name": "백미"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 318,
+		"fields": {
+			"ingre_name": "베이컨 or 슬라이스햄"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 319,
+		"fields": {
+			"ingre_name": "남은카레"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 320,
+		"fields": {
+			"ingre_name": "베이컨"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 321,
+		"fields": {
+			"ingre_name": "치즈"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 322,
+		"fields": {
+			"ingre_name": "대패목살"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 323,
+		"fields": {
+			"ingre_name": "돼지고기목살"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 324,
+		"fields": {
+			"ingre_name": "사과즙"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 325,
+		"fields": {
+			"ingre_name": "생강청"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 326,
+		"fields": {
+			"ingre_name": "양파껍질차/물/다시마물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 327,
+		"fields": {
+			"ingre_name": "참드림 경기미"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 328,
+		"fields": {
+			"ingre_name": "영양부추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 329,
+		"fields": {
+			"ingre_name": "상추"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 330,
+		"fields": {
+			"ingre_name": "순두부"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 331,
+		"fields": {
+			"ingre_name": "콩나물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 332,
+		"fields": {
+			"ingre_name": "김치궁물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 333,
+		"fields": {
+			"ingre_name": "경기미가와지1호 밥"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 334,
+		"fields": {
+			"ingre_name": "송송썬대파"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 335,
+		"fields": {
+			"ingre_name": "가쓰오부시"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 336,
+		"fields": {
+			"ingre_name": "돈가스소스"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 337,
+		"fields": {
+			"ingre_name": "경기미가와지1호쌀"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 338,
+		"fields": {
+			"ingre_name": "디포리다시마육수"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 339,
+		"fields": {
+			"ingre_name": "데친취나물"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 340,
+		"fields": {
+			"ingre_name": "맛살"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 341,
+		"fields": {
+			"ingre_name": "김밥햄"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 342,
+		"fields": {
+			"ingre_name": "닭봉"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 343,
+		"fields": {
+			"ingre_name": "케첩"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 344,
+		"fields": {
+			"ingre_name": "카레 가루"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 345,
+		"fields": {
+			"ingre_name": "두반장"
+		}
+	},
+	{
+		"model": "accounts.Ingredient",
+		"pk": 346,
+		"fields": {
+			"ingre_name": "매실즙"
+		}
+	}
+]
